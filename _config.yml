@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
+github:
+  is_project_page: false
+
+title: [UCL Natural Sciences]
+description: [Course notes]
