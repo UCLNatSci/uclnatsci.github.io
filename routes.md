@@ -13,7 +13,12 @@
 
 <details>
 <summary>Chemistry combinations</summary>
-      
+
+    <ul>
+    <li> markdown list 1</li>
+    <li> markdown list 1</li>
+    </ul>
+    
   + Inorganic & Materials Chemistry + Physics  
   + Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science  
   * Organic Chemistry + Biomedical Sciences  
