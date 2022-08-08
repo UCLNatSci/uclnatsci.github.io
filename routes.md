@@ -112,8 +112,7 @@ Neuroscience and Psychology + History, Philosophy and Social Studies of Science
 
 
 
-
-
+## TRASH SECTION
 
 <details>
   <summary>Chemistry stream combinations</summary>
