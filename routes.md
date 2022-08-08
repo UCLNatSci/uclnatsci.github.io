@@ -75,7 +75,7 @@
 <details>
   <summary>Mathematics and Statistics combinations</summary>
   <ul>
-      <li><a href="url"> + Physical Chemistry</a>/li>
+      <li><a href="url"> + Physical Chemistry</a></li>
       <li><a href="url"> + Biomedical Sciences</a></li>
       <li><a href="url"> + Genetics, Evolution and Environment</a></li>
       <li><a href="url"> + Molecular and Cell Biology</a></li>
