@@ -70,7 +70,7 @@
         <li><a href="url"> + (Maths & Stats)</li>
         <li><a href="url"> + History, Philosophy and Social Studies of Science</li>
     </ul>
-    </details>
+</details>
 
 <details>
   <summary>Mathematics and Statistics combinations</summary>
