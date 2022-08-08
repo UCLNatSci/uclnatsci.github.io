@@ -29,7 +29,9 @@
 </details>
 
 <details>
-    <summary>Earth Sciences combinations</summary>
+    <summary>
+        Earth Sciences combinations
+    </summary>
   
   * Earth and Environment + Genetics, Evolution and Environment  
   * Earth and Environment + History, Philosophy and Social Studies of Science  
@@ -40,34 +42,43 @@
 </details>
 
 <details>
-    <summary><h2>Life Sciences combinations</h2></summary>
-Biomedical Sciences + Organic Chemistry
-Biomedical Sciences + Medical Physics
-Biomedical Sciences + (Maths & Stats)
-Biomedical Sciences + History, Philosophy and Social Studies of Science
-Genetics, Evolution and Environment
+    <summary>
+        <h2>Life Sciences combinations</h2>
+    </summary>
+    
+    Biomedical Sciences
++ Organic Chemistry
++ Medical Physics
++ (Maths & Stats)
++ History, Philosophy and Social Studies of Science
 
-Genetics, Evolution and Environment + Organic Chemistry
-Genetics, Evolution and Environment + Earth and Environment
-Genetics, Evolution and Environment + (Maths and Stats)
-Genetics, Evolution and Environment + History, Philosophy and Social Studies of Science
-Molecular and Cell Biology
+    Genetics, Evolution and Environment
 
-Molecular and Cell Biology + Astrophysics
-Molecular and Cell Biology + Physics
-Molecular and Cell Biology + Organic Chemistry
-Molecular and Cell Biology + (Maths & Stats)
-Molecular and Cell Biology + History, Philosophy and Social Studies of Science
-Neuroscience and Psychology
++ Organic Chemistry
++ Earth and Environment
++ (Maths and Stats)
++ History, Philosophy and Social Studies of Science
 
-Neuroscience and Psychology + Organic Chemistry
-Neuroscience and Psychology + Medical Physics
-Neuroscience and Psychology + (Maths & Stats)
-Neuroscience and Psychology + History, Philosophy and Social Studies of Science
+    Molecular and Cell Biology
+
++ Astrophysics
++ Physics
++ Organic Chemistry
++ (Maths & Stats)
++ History, Philosophy and Social Studies of Science
+
+    Neuroscience and Psychology
+
++ Organic Chemistry
++ Medical Physics
++ (Maths & Stats)
++ History, Philosophy and Social Studies of Science
 </details>
 
 <details>
-  <summary><h2>Mathematics and Statistics combinations</h2></summary>
+  <summary>
+      <h2>Mathematics and Statistics combinations</h2>
+  </summary>
   
   * (Maths & Stats) + Physical Chemistry
   * (Maths & Stats) + Biomedical Sciences
@@ -82,7 +93,9 @@ Neuroscience and Psychology + History, Philosophy and Social Studies of Science
 </details>
 
 <details>
-  <summary><h2>Physics combinations</h2></summary>
+  <summary>
+      <h2>Physics combinations</h2>
+ </summary>
 
   * Astrophysics + Physical Chemistry
   * Astrophysics + Geophysical Sciences
@@ -102,7 +115,9 @@ Neuroscience and Psychology + History, Philosophy and Social Studies of Science
 </details>
 
 <details>
-  <summary><h2>Science and Technology Studies combinations</h2></summary>
+  <summary>
+      <h2>Science and Technology Studies combinations</h2>
+  </summary>
 
   * History, Philosophy and Social Studies of Science + Inorganic & Materials Chemistry
   * History, Philosophy and Social Studies of Science + Organic Chemistry
