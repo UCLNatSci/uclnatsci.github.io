@@ -129,8 +129,10 @@ History, Philosophy and Social Studies of Science + Medical Physics
 
 <details>
   <summary>Chemistry stream combinations</summary>
-  Your content here...
-  > markup like blockquote's should even work on github!
+  Your content here...  
+  
+  > markup like blockquotes should even work on github!  
+  
   more content here...
 </details>
 
