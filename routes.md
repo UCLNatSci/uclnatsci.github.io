@@ -1,7 +1,7 @@
 ## 2022 route catalogue
 
 <details>
-  <summary>Chemistry stream combinations</summary>  
+  <summary>Chemistry combinations</summary>  
   
   * Inorganic & Materials Chemistry + Physics  
   * Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science  
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-  <summary>Earth Sciences stream combinations</summary>
+  <summary>Earth Sciences combinations</summary>
   
   * Earth and Environment + Genetics, Evolution and Environment  
   * Earth and Environment + History, Philosophy and Social Studies of Science  
@@ -30,7 +30,7 @@
 </details>
 
 <details>
-  <summary>Life Sciences stream combinations</summary>
+  <summary>Life Sciences combinations</summary>
 Biomedical Sciences + Organic Chemistry
 Biomedical Sciences + Medical Physics
 Biomedical Sciences + (Maths & Stats)
@@ -57,71 +57,62 @@ Neuroscience and Psychology + History, Philosophy and Social Studies of Science
 </details>
 
 <details>
-  <summary>Chemistry stream combinations</summary>
+  <summary>Mathematics and Statistics combinations</summary>
+  
+  * (Maths & Stats) + Physical Chemistry
+  * (Maths & Stats) + Biomedical Sciences
+  * (Maths & Stats) + Genetics, Evolution and Environment
+  * (Maths & Stats) + Molecular and Cell Biology
+  * (Maths & Stats) + Neuroscience and Psychology
+  * (Maths & Stats) + Physics
+  * (Maths & Stats) + Astrophysics
+  
+  NOTE: Maths & Stats can only be pursued as a minor stream - your other stream MUST be your major stream for year 3 (and year 4 if you stay for the MSci).
 
 </details>
 
 <details>
-  <summary>Chemistry stream combinations</summary>
+  <summary>Physics combinations</summary>
 
+  * Astrophysics + Physical Chemistry
+  * Astrophysics + Geophysical Sciences
+  * Astrophysics + Molecular and Cell Biology
+  * Astrophysics + History, Philosophy and Social Studies of Science
+  * Astrophysics + (Maths & Stats)
+  * Physics + Inorganic and Materials Chemistry
+  * Physics + Physical Chemistry
+  * Physics + Geophysical Sciences
+  * Physics + Molecular and Cell Biology
+  * Physics + (Maths & Stats)
+  * Physics + History, Philosophy and Social Studies of Science
+  * Medical Physics + Biomedical Sciences
+  * Medical Physics + Neuroscience and Psychology
+  * Medical Physics + History, Philosophy and Social Studies of Science
+  
 </details>
 
 <details>
-  <summary>Chemistry stream combinations</summary>
+  <summary>Science and Technology Studies combinations</summary>
 
+  * History, Philosophy and Social Studies of Science + Inorganic & Materials Chemistry
+  * History, Philosophy and Social Studies of Science + Organic Chemistry
+  * History, Philosophy and Social Studies of Science + Physical Chemistry
+  * History, Philosophy and Social Studies of Science + Earth and Environment
+  * History, Philosophy and Social Studies of Science + Geophysical Sciences
+  * History, Philosophy and Social Studies of Science + Biomedical Sciences
+  * History, Philosophy and Social Studies of Science + Genetics, Evolution and Environment
+  * History, Philosophy and Social Studies of Science + Molecular and Cell Biology
+  * History, Philosophy and Social Studies of Science + Neuroscience and Psychology
+  * History, Philosophy and Social Studies of Science + Astrophysics
+  * History, Philosophy and Social Studies of Science + Physics
+  * History, Philosophy and Social Studies of Science + Medical Physics 
+  
+  
 </details>
 
-<div id="MAS"></div>
-### Mathematics and Statistics
 
-(Maths & Stats) + Physical Chemistry
-(Maths & Stats) + Biomedical Sciences
-(Maths & Stats) + Genetics, Evolution and Environment
-(Maths & Stats) + Molecular and Cell Biology
-(Maths & Stats) + Neuroscience and Psychology
-(Maths & Stats) + Physics
-(Maths & Stats) + Astrophysics
-NOTE: Maths & Stats can only be pursued as a minor stream - your other stream MUST be your major stream for year 3 (and year 4 if you stay for the MSci).
 
-<div id="PHY"></div>
-### Physics
 
-Astrophysics
-
-Astrophysics + Physical Chemistry
-Astrophysics + Geophysical Sciences
-Astrophysics + Molecular and Cell Biology
-Astrophysics + History, Philosophy and Social Studies of Science
-Astrophysics + (Maths & Stats)
-Physics
-
-Physics + Inorganic and Materials Chemistry
-Physics + Physical Chemistry
-Physics + Geophysical Sciences
-Physics + Molecular and Cell Biology
-Physics + (Maths & Stats)
-Physics + History, Philosophy and Social Studies of Science
-Medical Physics
-
-Medical Physics + Biomedical Sciences
-Medical Physics + Neuroscience and Psychology
-Medical Physics + History, Philosophy and Social Studies of Science
-
-<div id="STS"></div>
-### Science and Technology Studies
-
-History, Philosophy and Social Studies of Science + Inorganic & Materials Chemistry
-History, Philosophy and Social Studies of Science + Organic Chemistry
-History, Philosophy and Social Studies of Science + Physical Chemistry
-History, Philosophy and Social Studies of Science + Earth and Environment
-History, Philosophy and Social Studies of Science + Geophysical Sciences
-History, Philosophy and Social Studies of Science + Biomedical Sciences
-History, Philosophy and Social Studies of Science + Genetics, Evolution and Environment
-History, Philosophy and Social Studies of Science + Molecular and Cell Biology
-History, Philosophy and Social Studies of Science + Neuroscience and Psychology
-History, Philosophy and Social Studies of Science + Astrophysics
-History, Philosophy and Social Studies of Science + Physics
-History, Philosophy and Social Studies of Science + Medical Physics 
 
 
 <details>
