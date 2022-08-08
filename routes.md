@@ -1,8 +1,7 @@
 ## 2022 route catalogue
 
 <details>
-    <summary>Chemistry combinations</summary>
-    
+    <summary>Chemistry combinations</summary>  
     Inorganic & Materials Chemistry
     <ul>
         <li><a href="url"> + Physics </a></li> 
@@ -40,7 +39,6 @@
 
 <details>
     <summary>Life Sciences combinations</summary>
-    
     Biomedical Sciences
     <ul>
         <li><a href="url"> + Organic Chemistry</a></li>
