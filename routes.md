@@ -2,31 +2,31 @@
 
 <details>
   <summary>Chemistry stream combinations</summary>  
-  Inorganic & Materials Chemistry + Physics  
-  Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science
-
-  Organic Chemistry + Biomedical Sciences  
-  Organic Chemistry + Genetics, Evolution and Environment  
-  Organic Chemistry + Molecular and Cell Biology  
-  Organic Chemistry + Neuroscience and Psychology  
-  Organic Chemistry + History, Philosophy and Social Studies of Science  
-  Physical Chemistry  
-
-  Physical Chemistry + Astrophysics  
-  Physical Chemistry + Physics  
-  Physical Chemistry + Geophysical Sciences  
-  Physical Chemistry + (Maths & Stats)  
-  Physical Chemistry + History, Philosophy and Social Studies of Science
+  
+  * Inorganic & Materials Chemistry + Physics  
+  * Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science  
+  * Organic Chemistry + Biomedical Sciences  
+  * Organic Chemistry + Genetics, Evolution and Environment  
+  * Organic Chemistry + Molecular and Cell Biology  
+  * Organic Chemistry + Neuroscience and Psychology  
+  * Organic Chemistry + History, Philosophy and Social Studies of Science  
+  * Physical Chemistry  
+  * Physical Chemistry + Astrophysics  
+  * Physical Chemistry + Physics  
+  * Physical Chemistry + Geophysical Sciences  
+  * Physical Chemistry + (Maths & Stats)  
+  * Physical Chemistry + History, Philosophy and Social Studies of Science
 </details>
 
 <details>
   <summary>Earth Sciences stream combinations</summary>
-  Earth and Environment + Genetics, Evolution and Environment 
-  Earth and Environment + History, Philosophy and Social Studies of Science  
-  Geophysical Sciences + Physical Chemistry  
-  Geophysical Sciences + Astrophysics  
-  Geophysical Sciences + Physics  
-  Geophysical Sciences + History, Philosophy and Social Studies of Science  
+  
+  * Earth and Environment + Genetics, Evolution and Environment  
+  * Earth and Environment + History, Philosophy and Social Studies of Science  
+  * Geophysical Sciences + Physical Chemistry  
+  * Geophysical Sciences + Astrophysics  
+  * Geophysical Sciences + Physics  
+  * Geophysical Sciences + History, Philosophy and Social Studies of Science  
 </details>
 
 <details>
