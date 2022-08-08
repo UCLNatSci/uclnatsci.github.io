@@ -15,23 +15,20 @@
 <summary>Chemistry combinations</summary>
 
     <ul>
-    <li> markdown list 1</li>
-    <li> markdown list 1</li>
-    </ul>
-    
-  + Inorganic & Materials Chemistry + Physics  
-  + Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science  
-  * Organic Chemistry + Biomedical Sciences  
-  * Organic Chemistry + Genetics, Evolution and Environment  
-  * Organic Chemistry + Molecular and Cell Biology  
-  * Organic Chemistry + Neuroscience and Psychology  
-  * Organic Chemistry + History, Philosophy and Social Studies of Science  
-  * Physical Chemistry  
-  * Physical Chemistry + Astrophysics  
-  * Physical Chemistry + Physics  
-  * Physical Chemistry + Geophysical Sciences  
-  * Physical Chemistry + (Maths & Stats)  
-  * Physical Chemistry + History, Philosophy and Social Studies of Science
+        <li> Inorganic & Materials Chemistry + Physics </li> 
+        <li> Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science </li>
+        <li> Organic Chemistry + Biomedical Sciences </li>
+        <li> Organic Chemistry + Genetics, Evolution and Environment </li>
+        <li> Organic Chemistry + Molecular and Cell Biology </li>
+        <li> Organic Chemistry + Neuroscience and Psychology </li>
+        <li> Organic Chemistry + History, Philosophy and Social Studies of Science </li>
+        <li> Physical Chemistry + Astrophysics </li>
+        <li> Physical Chemistry + Physics </li>
+        <li> Physical Chemistry + Geophysical Sciences </li>  
+        <li> Physical Chemistry + (Maths & Stats) </li>
+        <li> Physical Chemistry + History, Philosophy and Social Studies of Science </li>
+        
+  </ul>
 </details>
 
 <details>
