@@ -1,7 +1,9 @@
 ## 2022 route catalogue
 
 <details>
-    <h2><summary>Chemistry combinations</summary></h2>
+    <summary>
+        <h2>Chemistry combinations</h2>
+    </summary>
     
     Inorganic & Materials Chemistry
     <ul>
@@ -27,7 +29,7 @@
 </details>
 
 <details>
-    <summary><h2>Earth Sciences combinations</h2></summary>
+    <summary>Earth Sciences combinations</summary>
   
   * Earth and Environment + Genetics, Evolution and Environment  
   * Earth and Environment + History, Philosophy and Social Studies of Science  
