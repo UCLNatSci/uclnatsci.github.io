@@ -1,55 +1,36 @@
 ## 2022 route catalogue
 
-[Chemistry](#CHM)  
-[Earth Sciences](#GEO)  
-[Life Sciences](#FLS)  
-[Mathematics and Statistics](#MAS)  
-[Physics](#PHY)  
-[Science and Technology Studies](#STS)  
+<details>
+  <summary>Chemistry stream combinations</summary>  
+  Inorganic & Materials Chemistry + Physics  
+  Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science
 
-<div id="CHM"></div>
-### Chemistry stream combinations
-<details><summary>Does work</summary>
-[hi](https://hello.ca) 
+  Organic Chemistry + Biomedical Sciences  
+  Organic Chemistry + Genetics, Evolution and Environment  
+  Organic Chemistry + Molecular and Cell Biology  
+  Organic Chemistry + Neuroscience and Psychology  
+  Organic Chemistry + History, Philosophy and Social Studies of Science  
+  Physical Chemistry  
+
+  Physical Chemistry + Astrophysics  
+  Physical Chemistry + Physics  
+  Physical Chemistry + Geophysical Sciences  
+  Physical Chemistry + (Maths & Stats)  
+  Physical Chemistry + History, Philosophy and Social Studies of Science
 </details>
 
-Inorganic and Materials Chemistry
+<details>
+  <summary>Earth Sciences stream combinations</summary>
+  Earth and Environment + Genetics, Evolution and Environment 
+  Earth and Environment + History, Philosophy and Social Studies of Science  
+  Geophysical Sciences + Physical Chemistry  
+  Geophysical Sciences + Astrophysics  
+  Geophysical Sciences + Physics  
+  Geophysical Sciences + History, Philosophy and Social Studies of Science  
+</details>
 
-Inorganic & Materials Chemistry + Physics
-Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science
-Organic Chemistry
-
-Organic Chemistry + Biomedical Sciences
-Organic Chemistry + Genetics, Evolution and Environment
-Organic Chemistry + Molecular and Cell Biology
-Organic Chemistry + Neuroscience and Psychology
-Organic Chemistry + History, Philosophy and Social Studies of Science
-Physical Chemistry
-
-Physical Chemistry + Astrophysics
-Physical Chemistry + Physics
-Physical Chemistry + Geophysical Sciences
-Physical Chemistry + (Maths & Stats)
-Physical Chemistry + History, Philosophy and Social Studies of Science
-
-<div id="GEO"></div>
-### Earth Sciences
-Earth and Environment
-
-Earth and Environment + Genetics, Evolution and Environment
-Earth and Environment + History, Philosophy and Social Studies of Science
-Geophysical Sciences
-
-Geophysical Sciences + Physical Chemistry
-Geophysical Sciences + Astrophysics
-Geophysical Sciences + Physics
-Geophysical Sciences + History, Philosophy and Social Studies of Science
-
-<div id="FLS"></div>
-### Life Sciences
-
-Biomedical Sciences
-
+<details>
+  <summary>Life Sciences stream combinations</summary>
 Biomedical Sciences + Organic Chemistry
 Biomedical Sciences + Medical Physics
 Biomedical Sciences + (Maths & Stats)
@@ -73,6 +54,22 @@ Neuroscience and Psychology + Organic Chemistry
 Neuroscience and Psychology + Medical Physics
 Neuroscience and Psychology + (Maths & Stats)
 Neuroscience and Psychology + History, Philosophy and Social Studies of Science
+</details>
+
+<details>
+  <summary>Chemistry stream combinations</summary>
+
+</details>
+
+<details>
+  <summary>Chemistry stream combinations</summary>
+
+</details>
+
+<details>
+  <summary>Chemistry stream combinations</summary>
+
+</details>
 
 <div id="MAS"></div>
 ### Mathematics and Statistics
@@ -141,4 +138,12 @@ History, Philosophy and Social Studies of Science + Medical Physics
   Your content here...
   > markup like blockquote's should even work on github!
   more content here...
+</details>
+
+
+[Chemistry](#CHM)
+<div id="CHM"></div>
+### Chemistry stream combinations
+<details><summary>Does work</summary>  
+[hi](https://hello.ca) 
 </details>
