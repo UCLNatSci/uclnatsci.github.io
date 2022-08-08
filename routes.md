@@ -1,11 +1,11 @@
 ## 2022 route catalogue
 
-[Chemistry](#CHM)
-[Earth Sciences](#GEO)
-[Life Sciences](#FLS)
-[Mathematics and Statistics](#MAS)
-[Physics](#PHY)
-[Science and Technology Studies](#STS)
+[Chemistry](#CHM)  
+[Earth Sciences](#GEO)  
+[Life Sciences](#FLS)  
+[Mathematics and Statistics](#MAS)  
+[Physics](#PHY)  
+[Science and Technology Studies](#STS)  
 
 <div id="CHM"></div>
 ### Chemistry stream combinations
