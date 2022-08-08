@@ -1,11 +1,7 @@
 ## 2022 route catalogue
 
 <details>
-    <summary>
-        
-        <h2>Chemistry combinations</h2>
-        
-    </summary>
+    <summary>Chemistry combinations</summary>
     
     Inorganic & Materials Chemistry
     <ul>
@@ -31,9 +27,7 @@
 </details>
 
 <details>
-    <summary>
-        Geoscience combinations
-    </summary>
+    <summary>Geoscience combinations</summary>
   <ul>
       <li><a href="url"> + Genetics, Evolution and Environment</li>
       <li><a href="url"> + History, Philosophy and Social Studies of Science</li> 
@@ -45,11 +39,7 @@
 </details>
 
 <details>
-    <summary>
-        
-        <h2>Life Sciences combinations</h2>
-        
-    </summary>
+    <summary>Life Sciences combinations</summary>
     
     Biomedical Sciences
     <ul>
@@ -83,11 +73,7 @@
     </details>
 
 <details>
-  <summary>
-      
-      <h2>Mathematics and Statistics combinations</h2>
-      
-  </summary>
+  <summary>Mathematics and Statistics combinations</summary>
   <ul>
       <li><a href="url"> + Physical Chemistry</li>
       <li><a href="url"> + Biomedical Sciences</li>
@@ -102,11 +88,7 @@
 </details>
 
 <details>
-  <summary>
-      
-      <h2>Physics combinations</h2>
-      
- </summary>
+  <summary>Physics combinations</summary>
     
  Astrophysics
  <ul>
@@ -131,11 +113,7 @@
   </details>
 
 <details>
-  <summary>
-      
-      <h2>History, Philosophy and Social Studies of Science</h2>
-      
-  </summary>
+  <summary>History, Philosophy and Social Studies of Science</summary>
   <ul>
       <li><a href="url"> + Inorganic & Materials Chemistry</li>
       <li><a href="url"> + Organic Chemistry</li>
