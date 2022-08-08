@@ -1,32 +1,24 @@
 ## 2022 route catalogue
 
 <details>
-<summary>Heading</summary>
-<!--All you need is a blank line-->
-
-    + markdown list 1
-        + nested list 1
-        + nested list 2
-    + markdown list 2
-</details>
-
-
-<details>
-<summary>Chemistry combinations</summary>
-
+    <summary><h2>Chemistry combinations</h2></summary>
+    
+    Inorganic & Materials Chemistry
     <ul>
-        <li><a href="url"> Inorganic & Materials Chemistry + Physics </a></li> 
-        <li><a href="url"> Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science </a></li>
-        <li><a href="url"> Organic Chemistry + Biomedical Sciences </a></li>
-        <li><a href="url"> Organic Chemistry + Genetics, Evolution and Environment </a></li>
-        <li><a href="url"> Organic Chemistry + Molecular and Cell Biology </a></li>
-        <li><a href="url"> Organic Chemistry + Neuroscience and Psychology </a></li>
-        <li><a href="url"> Organic Chemistry + History, Philosophy and Social Studies of Science </a></li>
-        <li><a href="url"> Physical Chemistry + Astrophysics </a></li>
-        <li><a href="url"> Physical Chemistry + Physics </a></li>
-        <li><a href="url"> Physical Chemistry + Geophysical Sciences </a></li>  
-        <li><a href="url"> Physical Chemistry + (Maths & Stats) </a></li>
-        <li><a href="url"> Physical Chemistry + History, Philosophy and Social Studies of Science </a></li>
+        <li><a href="url">+ Physics </a></li> 
+        <li><a href="url">+ History, Philosophy and Social Studies of Science </a></li>
+   Organic Chemistry
+        <li><a href="url">+ Biomedical Sciences </a></li>
+        <li><a href="url">+ Genetics, Evolution and Environment </a></li>
+        <li><a href="url">+ Molecular and Cell Biology </a></li>
+        <li><a href="url">+ Neuroscience and Psychology </a></li>
+        <li><a href="url">+ History, Philosophy and Social Studies of Science </a></li>
+    Physical Chemistry
+        <li><a href="url">+ Astrophysics </a></li>
+        <li><a href="url">+ Physics </a></li>
+        <li><a href="url">+ Geophysical Sciences </a></li>  
+        <li><a href="url">+ (Maths & Stats) </a></li>
+        <li><a href="url">+ History, Philosophy and Social Studies of Science </a></li>
         
   </ul>
 </details>
