@@ -15,18 +15,18 @@
 <summary>Chemistry combinations</summary>
 
     <ul>
-        <li> Inorganic & Materials Chemistry + Physics </li> 
-        <li> Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science </li>
-        <li> Organic Chemistry + Biomedical Sciences </li>
-        <li> Organic Chemistry + Genetics, Evolution and Environment </li>
-        <li> Organic Chemistry + Molecular and Cell Biology </li>
-        <li> Organic Chemistry + Neuroscience and Psychology </li>
-        <li> Organic Chemistry + History, Philosophy and Social Studies of Science </li>
-        <li> Physical Chemistry + Astrophysics </li>
-        <li> Physical Chemistry + Physics </li>
-        <li> Physical Chemistry + Geophysical Sciences </li>  
-        <li> Physical Chemistry + (Maths & Stats) </li>
-        <li> Physical Chemistry + History, Philosophy and Social Studies of Science </li>
+        <li><a href="url"> Inorganic & Materials Chemistry + Physics </a></li> 
+        <li><a href="url"> Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science </a></li>
+        <li><a href="url"> Organic Chemistry + Biomedical Sciences </a></li>
+        <li><a href="url"> Organic Chemistry + Genetics, Evolution and Environment </a></li>
+        <li><a href="url"> Organic Chemistry + Molecular and Cell Biology </a></li>
+        <li><a href="url"> Organic Chemistry + Neuroscience and Psychology </a></li>
+        <li><a href="url"> Organic Chemistry + History, Philosophy and Social Studies of Science </a></li>
+        <li><a href="url"> Physical Chemistry + Astrophysics </a></li>
+        <li><a href="url"> Physical Chemistry + Physics </a></li>
+        <li><a href="url"> Physical Chemistry + Geophysical Sciences </a></li>  
+        <li><a href="url"> Physical Chemistry + (Maths & Stats) </a></li>
+        <li><a href="url"> Physical Chemistry + History, Philosophy and Social Studies of Science </a></li>
         
   </ul>
 </details>
