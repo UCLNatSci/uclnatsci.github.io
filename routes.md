@@ -4,6 +4,7 @@
     <summary>
         
         <h2>Chemistry combinations</h2>
+        
     </summary>
     
     Inorganic & Materials Chemistry
@@ -47,6 +48,7 @@
     <summary>
         
         <h2>Life Sciences combinations</h2>
+        
     </summary>
     
     Biomedical Sciences
@@ -84,6 +86,7 @@
   <summary>
       
       <h2>Mathematics and Statistics combinations</h2>
+      
   </summary>
   <ul>
       <li><a href="url"> + Physical Chemistry</li>
@@ -102,6 +105,7 @@
   <summary>
       
       <h2>Physics combinations</h2>
+      
  </summary>
     
  Astrophysics
@@ -130,6 +134,7 @@
   <summary>
       
       <h2>History, Philosophy and Social Studies of Science</h2>
+      
   </summary>
   <ul>
       <li><a href="url"> + Inorganic & Materials Chemistry</li>
