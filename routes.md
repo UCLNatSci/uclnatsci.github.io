@@ -2,9 +2,9 @@
 
 <details>
   <summary>Chemistry combinations</summary>  
-  
-  * Inorganic & Materials Chemistry + Physics  
-  * Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science  
+      
+  + Inorganic & Materials Chemistry + Physics  
+  + Inorganic & Materials Chemistry + History, Philosophy and Social Studies of Science  
   * Organic Chemistry + Biomedical Sciences  
   * Organic Chemistry + Genetics, Evolution and Environment  
   * Organic Chemistry + Molecular and Cell Biology  
