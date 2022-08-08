@@ -1,7 +1,7 @@
 ## 2022 route catalogue
 
 <details>
-    <summary><h2>Chemistry combinations</h2></summary>
+    <h2><summary>Chemistry combinations</summary></h2>
     
     Inorganic & Materials Chemistry
     <ul>
