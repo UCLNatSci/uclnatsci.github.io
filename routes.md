@@ -14,6 +14,13 @@
 
         <li><details>
             <summary>Physical Chemistry</summary>
+         <ul>
+            <li><a href="url"> + Astrophysics </a></li>
+            <li><a href="url"> + Physics</a></li>
+            <li><a href="url"> + Geophysical Sciences</a></li>
+            <li><a href="url"> + (Maths & Stats)</a></li>
+            <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>          
+        </ul>
         </details></li>
 
         <li><details>
