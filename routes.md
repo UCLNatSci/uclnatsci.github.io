@@ -3,7 +3,8 @@
 <details>
     <summary>Chemistry combinations</summary> 
     
-    
+    <ul>
+    <li>
     <details>
         <summary>Inorganic & Materials Chemistry</summary>
         <ul>
@@ -11,6 +12,8 @@
             <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
         </ul>
     </details>
+    </li>
+    </ul>
  
     <details>
         <summary>Physical Chemistry</summary> 
