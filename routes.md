@@ -7,15 +7,15 @@
         <li><details>
             <summary>Inorganic & Materials Chemistry</summary>
         <ul style="list-style-type:none">
-            <li><a href="url"> + Physics </a></li> 
-            <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
+            <li><a href="uclnatsci.github.io/routes/PHY_IMC.pdf" target="_blank"> + Physics </a></li> 
+            <li><a href="uclnatsci.github.io/routes/IMC_HPS.pdf" target="_blank"> + History, Philosophy and Social Studies of Science </a></li>
         </ul>
         </details></li>
 
         <li><details>
             <summary>Physical Chemistry</summary>
          <ul style="list-style-type:none">
-            <li><a href="uclnatsci.github.io/routes/ASP_PHC.pdf" target="_blank"></a> + Astrophysics </a></li>
+            <li><a href="uclnatsci.github.io/routes/ASP_PHC.pdf" target="_blank"> + Astrophysics </a></li>
             <li><a href="uclnatsci.github.io/routes/PHY_PHC.pdf" target="_blank"> + Physics</a></li>
             <li><a href="uclnatsci.github.io/routes/GEO_PHC.pdf" target="_blank"> + Geoscience</a></li>
             <li><a href="uclnatsci.github.io/routes/PHC_MAS.pdf" target="_blank"> + (Maths & Stats)</a></li>
