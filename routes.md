@@ -60,7 +60,7 @@
             <li><a href="url"> + (Maths & Stats)</a></li>
             <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
         </ul>
-        </li></details>
+        </details></li>
         <li><details>
             <summary>Genetics, Evolution and Environment</summary>
         <ul>
@@ -69,7 +69,7 @@
             <li><a href="url"> + (Maths and Stats)</a></li>
             <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
         </ul>
-        </li></details>
+        </details></li>
         <li><details>
             <summary>Molecular and Cell Biology</summary>
         <ul>
@@ -79,7 +79,7 @@
             <li><a href="url"> + (Maths & Stats)</a></li>
             <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
         </ul>
-        </li></details>
+        </details></li>
         <li><details>
             <summary>Neuroscience and Psychology</summary>
         <ul>
@@ -88,7 +88,7 @@
             <li><a href="url"> + (Maths & Stats)</a></li>
             <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>    
         </ul>
-        </li></details>
+        </details></li>
     </ul>
 </details>
 
@@ -112,22 +112,17 @@
     
      <ul>
         <li><details>
-            <summary>Astrophysics</summary>
-            
+            <summary>Astrophysics</summary>     
             <ul>
                 <li><a href="url"> + Physical Chemistry</a></li>
                 <li><a href="url"> + Geoscience</a></li>
                 <li><a href="url"> + Molecular and Cell Biology</a></li>
                 <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
                 <li><a href="url"> + (Maths & Stats)</a></li>    
-            </ul>
-            
-            
-            </details></li>
-         
+            </ul>   
+         </details></li>
          <li><details>
             <summary>Physics</summary>
-            
             <ul>
                 <li><a href="url"> + Inorganic and Materials Chemistry</a></li>
                 <li><a href="url"> + Physical Chemistry</a></li>
@@ -138,22 +133,18 @@
                 <li><a href="url"> + Biomedical Sciences</a></li>
                 <li><a href="url"> + Neuroscience and Psychology</a></li>
                 <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>  
-            </ul>
-            
-            
-            </details></li>
-         
+            </ul> 
+         </details></li>         
          <li><details>
-            <summary>Medical Physics</summary>
-            
+            <summary>Medical Physics</summary>            
             <ul>
             <li><a href="url"> + Biomedical Sciences</a></li>
             <li><a href="url"> + Neuroscience and Psychology</a></li>
             <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>  
-            </ul>
-            
-            
-            </details></li>
+            </ul> 
+         </details></li>
+    </ul>
+</details>
          
 <details>
   <summary>History, Philosophy and Social Studies of Science</summary>
