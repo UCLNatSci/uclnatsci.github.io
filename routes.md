@@ -3,10 +3,10 @@
 <details>
     <summary>Chemistry combinations</summary> 
     
-    <ul>
+    <ul style="list-style-type:none">
         <li><details>
             <summary>Inorganic & Materials Chemistry</summary>
-        <ul>
+        <ul style="list-style-type:none">
             <li><a href="url"> + Physics </a></li> 
             <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
         </ul>
@@ -14,7 +14,7 @@
 
         <li><details>
             <summary>Physical Chemistry</summary>
-         <ul>
+         <ul style="list-style-type:none">
             <li><a href="url"> + Astrophysics </a></li>
             <li><a href="url"> + Physics</a></li>
             <li><a href="url"> + Geoscience</a></li>
@@ -25,7 +25,7 @@
 
         <li><details>
             <summary>Organic Chemistry</summary>
-         <ul>
+         <ul style="list-style-type:none">
             <li><a href="url"> + Biomedical Sciences </a></li>
             <li><a href="url"> + Genetics, Evolution and Environment </a></li>
             <li><a href="url"> + Molecular and Cell Biology </a></li>
@@ -38,7 +38,7 @@
 
 <details>
       <summary>Geoscience combinations</summary>
-      <ul>
+      <ul style="list-style-type:none">
           <li><a href="url"> + Genetics, Evolution and Environment</a></li>
           <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li> 
           <li><a href="url"> + Physical Chemistry</a></li>
@@ -51,10 +51,10 @@
 <details>
     <summary>Life Sciences combinations</summary>
  
-    <ul>
+    <ul style="list-style-type:none">
         <li><details>
             <summary>Biomedical Sciences</summary>
-        <ul>
+        <ul style="list-style-type:none">
             <li><a href="url"> + Organic Chemistry</a></li>
             <li><a href="url"> + Medical Physics</a></li>
             <li><a href="url"> + (Maths & Stats)</a></li>
@@ -63,7 +63,7 @@
         </details></li>
         <li><details>
             <summary>Genetics, Evolution and Environment</summary>
-        <ul>
+        <ul style="list-style-type:none">
             <li><a href="url"> + Organic Chemistry</a></li>
             <li><a href="url"> + Geoscience</a></li>
             <li><a href="url"> + (Maths and Stats)</a></li>
@@ -72,7 +72,7 @@
         </details></li>
         <li><details>
             <summary>Molecular and Cell Biology</summary>
-        <ul>
+        <ul style="list-style-type:none">
             <li><a href="url"> + Astrophysics</a></li>
             <li><a href="url"> + Physics</a></li>
             <li><a href="url"> + Organic Chemistry</a></li>
@@ -82,7 +82,7 @@
         </details></li>
         <li><details>
             <summary>Neuroscience and Psychology</summary>
-        <ul>
+        <ul style="list-style-type:none">
             <li><a href="url"> + Organic Chemistry</a></li>
             <li><a href="url"> + Medical Physics</a></li>
             <li><a href="url"> + (Maths & Stats)</a></li>
@@ -94,7 +94,7 @@
 
 <details>
   <summary>Mathematics and Statistics combinations</summary>
-  <ul>
+  <ul style="list-style-type:none">
       <li><a href="url"> + Physical Chemistry</a></li>
       <li><a href="url"> + Biomedical Sciences</a></li>
       <li><a href="url"> + Genetics, Evolution and Environment</a></li>
@@ -110,10 +110,10 @@
 <details>
   <summary>Physics combinations</summary>
     
-     <ul>
+     <ul style="list-style-type:none">
         <li><details>
             <summary>Astrophysics</summary>     
-            <ul>
+            <ul style="list-style-type:none">
                 <li><a href="url"> + Physical Chemistry</a></li>
                 <li><a href="url"> + Geoscience</a></li>
                 <li><a href="url"> + Molecular and Cell Biology</a></li>
@@ -123,7 +123,7 @@
          </details></li>
          <li><details>
             <summary>Physics</summary>
-            <ul>
+            <ul style="list-style-type:none">
                 <li><a href="url"> + Inorganic and Materials Chemistry</a></li>
                 <li><a href="url"> + Physical Chemistry</a></li>
                 <li><a href="url"> + Geoscience</a></li>
@@ -137,10 +137,10 @@
          </details></li>         
          <li><details>
             <summary>Medical Physics</summary>            
-            <ul>
-            <li><a href="url"> + Biomedical Sciences</a></li>
-            <li><a href="url"> + Neuroscience and Psychology</a></li>
-            <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>  
+            <ul style="list-style-type:none">
+                <li><a href="url"> + Biomedical Sciences</a></li>
+                <li><a href="url"> + Neuroscience and Psychology</a></li>
+                <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>  
             </ul> 
          </details></li>
     </ul>
@@ -148,7 +148,7 @@
          
 <details>
   <summary>History, Philosophy and Social Studies of Science</summary>
-  <ul>
+  <ul style="list-style-type:none">
       <li><a href="url"> + Inorganic & Materials Chemistry</a></li>
       <li><a href="url"> + Organic Chemistry</a></li>
       <li><a href="url"> + Physical Chemistry</a></li>
