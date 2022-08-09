@@ -52,34 +52,45 @@
 
 <details>
     <summary>Life Sciences combinations</summary>
-    Biomedical Sciences
+ 
     <ul>
-        <li><a href="url"> + Organic Chemistry</a></li>
-        <li><a href="url"> + Medical Physics</a></li>
-        <li><a href="url"> + (Maths & Stats)</a></li>
-        <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
-    </ul>
-    Genetics, Evolution and Environment
-    <ul>
-        <li><a href="url"> + Organic Chemistry</a></li>
-        <li><a href="url"> + Earth and Environment</a></li>
-        <li><a href="url"> + (Maths and Stats)</a></li>
-        <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
-    </ul>
-    Molecular and Cell Biology
-    <ul>
-        <li><a href="url"> + Astrophysics</a></li>
-        <li><a href="url"> + Physics</a></li>
-        <li><a href="url"> + Organic Chemistry</a></li>
-        <li><a href="url"> + (Maths & Stats)</a></li>
-        <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
-    </ul>
-    Neuroscience and Psychology
-    <ul>
-        <li><a href="url"> + Organic Chemistry</a></li>
-        <li><a href="url"> + Medical Physics</a></li>
-        <li><a href="url"> + (Maths & Stats)</a></li>
-        <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
+        <li><details>
+            <summary>Biomedical Sciences</summary>
+        <ul>
+            <li><a href="url"> + Organic Chemistry</a></li>
+            <li><a href="url"> + Medical Physics</a></li>
+            <li><a href="url"> + (Maths & Stats)</a></li>
+            <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
+        </ul>
+        </li></details>
+        <li><details>
+            <summary>Genetics, Evolution and Environment</summary>
+        <ul>
+            <li><a href="url"> + Organic Chemistry</a></li>
+            <li><a href="url"> + Earth and Environment</a></li>
+            <li><a href="url"> + (Maths and Stats)</a></li>
+            <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
+        </ul>
+        </li></details>
+        <li><details>
+            <summary>Molecular and Cell Biology</summary>
+        <ul>
+            <li><a href="url"> + Astrophysics</a></li>
+            <li><a href="url"> + Physics</a></li>
+            <li><a href="url"> + Organic Chemistry</a></li>
+            <li><a href="url"> + (Maths & Stats)</a></li>
+            <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
+        </ul>
+        </li></details>
+        <li><details>
+            <summary>Neuroscience and Psychology</summary>
+        <ul>
+            <li><a href="url"> + Organic Chemistry</a></li>
+            <li><a href="url"> + Medical Physics</a></li>
+            <li><a href="url"> + (Maths & Stats)</a></li>
+            <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>    
+        </ul>
+        </li></details>
     </ul>
 </details>
 
