@@ -17,7 +17,7 @@
          <ul>
             <li><a href="url"> + Astrophysics </a></li>
             <li><a href="url"> + Physics</a></li>
-            <li><a href="url"> + Geophysical Sciences</a></li>
+            <li><a href="url"> + Geoscience</a></li>
             <li><a href="url"> + (Maths & Stats)</a></li>
             <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>          
         </ul>
@@ -65,7 +65,7 @@
             <summary>Genetics, Evolution and Environment</summary>
         <ul>
             <li><a href="url"> + Organic Chemistry</a></li>
-            <li><a href="url"> + Earth and Environment</a></li>
+            <li><a href="url"> + Geoscience</a></li>
             <li><a href="url"> + (Maths and Stats)</a></li>
             <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
         </ul>
