@@ -32,8 +32,9 @@
             <li><a href="url"> + Neuroscience and Psychology </a></li>
             <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
         </ul>
-            </details></li> 
-    </details>
+        </details></li>
+    </ul>
+</details>
 
     <details>
         <summary>Geoscience combinations</summary>
