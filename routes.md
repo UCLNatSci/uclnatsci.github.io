@@ -3,16 +3,17 @@
 <details>
     <summary>Chemistry combinations</summary> 
     
+    
     <details>
-    <summary>Inorganic & Materials Chemistry</summary>
-    <ul>
-        <li><a href="url"> + Physics </a></li> 
-        <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
-    </ul>
+        <summary>Inorganic & Materials Chemistry</summary>
+        <ul>
+            <li><a href="url"> + Physics </a></li> 
+            <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
+        </ul>
     </details>
  
     <details>
-    <summary>Physical Chemistry</summary> 
+        <summary>Physical Chemistry</summary> 
     </details>
     
     <details>
