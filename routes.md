@@ -168,26 +168,17 @@
 
 ## TRASH SECTION
 
-<details>
-  <summary>Chemistry stream combinations</summary>
+[link to item](#CHM)
+<div id="CHM"></div>
+### test
+<details><summary>Does not work</summary>
+
   Your content here...  
   
   > markup like blockquotes should even work on github!  
   
   more content here...
-</details>
+  
+  [hi](https://hello.ca) 
 
-<details>
-  <summary>###</summary>
-  Your content here...
-  > markup like blockquote's should even work on github!
-  more content here...
-</details>
-
-
-[Chemistry](#CHM)
-<div id="CHM"></div>
-### Chemistry stream combinations
-<details><summary>Does work</summary>  
-[hi](https://hello.ca) 
 </details>
