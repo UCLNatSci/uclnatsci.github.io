@@ -36,8 +36,8 @@
     </ul>
 </details>
 
-    <details>
-        <summary>Geoscience combinations</summary>
+<details>
+      <summary>Geoscience combinations</summary>
       <ul>
           <li><a href="url"> + Genetics, Evolution and Environment</a></li>
           <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li> 
@@ -46,8 +46,6 @@
           <li><a href="url"> + Physics</a></li>
           <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
       </ul>
-
-    </ul>
 </details>
 
 <details>
@@ -149,7 +147,9 @@
             <summary>Medical Physics</summary>
             
             <ul>
-                
+            <li><a href="url"> + Biomedical Sciences</a></li>
+            <li><a href="url"> + Neuroscience and Psychology</a></li>
+            <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>  
             </ul>
             
             
