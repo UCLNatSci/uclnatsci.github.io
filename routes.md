@@ -4,59 +4,42 @@
     <summary>Chemistry combinations</summary> 
     
     <ul>
-    <li>
-    <details>
-        <summary>Inorganic & Materials Chemistry</summary>
+        <li><details>
+            <summary>Inorganic & Materials Chemistry</summary>
         <ul>
             <li><a href="url"> + Physics </a></li> 
             <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
         </ul>
-    </details>
-    </li>
-    </ul>
- 
-    <details>
-        <summary>Physical Chemistry</summary> 
-    </details>
-    
-    <details>
-    <summary>Organic Chemistry</summary> 
-    </details>
-    
-    
-    Inorganic & Materials Chemistry
-    <ul>
-        <li><a href="url"> + Physics </a></li> 
-        <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
-    </ul>
-   Organic Chemistry
-    <ul>
-        <li><a href="url"> + Biomedical Sciences </a></li>
-        <li><a href="url"> + Genetics, Evolution and Environment </a></li>
-        <li><a href="url"> + Molecular and Cell Biology </a></li>
-        <li><a href="url"> + Neuroscience and Psychology </a></li>
-        <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
-    </ul>
-   Physical Chemistry
-   <ul>
-        <li><a href="url"> + Astrophysics </a></li>
-        <li><a href="url"> + Physics </a></li>
-        <li><a href="url"> + Geoscience </a></li>  
-        <li><a href="url"> + (Maths & Stats) </a></li>
-        <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li> 
-  </ul>
-</details>
+        </details></li>
 
-<details>
-    <summary>Geoscience combinations</summary>
-  <ul>
-      <li><a href="url"> + Genetics, Evolution and Environment</a></li>
-      <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li> 
-      <li><a href="url"> + Physical Chemistry</a></li>
-      <li><a href="url"> + Astrophysics</a></li>
-      <li><a href="url"> + Physics</a></li>
-      <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
-  </ul>
+        <li><details>
+            <summary>Physical Chemistry</summary>
+        </details></li>
+
+        <li><details>
+            <summary>Organic Chemistry</summary>
+         <ul>
+            <li><a href="url"> + Biomedical Sciences </a></li>
+            <li><a href="url"> + Genetics, Evolution and Environment </a></li>
+            <li><a href="url"> + Molecular and Cell Biology </a></li>
+            <li><a href="url"> + Neuroscience and Psychology </a></li>
+            <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
+        </ul>
+            </details></li> 
+    </details>
+
+    <details>
+        <summary>Geoscience combinations</summary>
+      <ul>
+          <li><a href="url"> + Genetics, Evolution and Environment</a></li>
+          <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li> 
+          <li><a href="url"> + Physical Chemistry</a></li>
+          <li><a href="url"> + Astrophysics</a></li>
+          <li><a href="url"> + Physics</a></li>
+          <li><a href="url"> + History, Philosophy and Social Studies of Science</a></li>
+      </ul>
+
+    </ul>
 </details>
 
 <details>
