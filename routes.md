@@ -1,7 +1,25 @@
 ## 2022 route catalogue
 
 <details>
-    <summary>Chemistry combinations</summary>  
+    <summary>Chemistry combinations</summary> 
+    
+    <details>
+    <summary>Inorganic & Materials Chemistry</summary>
+    <ul>
+        <li><a href="url"> + Physics </a></li> 
+        <li><a href="url"> + History, Philosophy and Social Studies of Science </a></li>
+    </ul>
+    </details>
+ 
+    <details>
+    <summary>Physical Chemistry</summary> 
+    </details>
+    
+    <details>
+    <summary>Organic Chemistry</summary> 
+    </details>
+    
+    
     Inorganic & Materials Chemistry
     <ul>
         <li><a href="url"> + Physics </a></li> 
